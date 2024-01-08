@@ -37,3 +37,31 @@
     font-size: 30px;
     padding-left:230px ;
 }
+.offer{
+    text-align: center;
+    margin-top:50px ;
+    background: #fff;
+}
+.victory{
+    background-image:url(../resources/Vectorrr.png) ;
+    width:1020px;
+    height: 400px;
+    background:cover ;
+    background-size: 100% 100%;
+    display: flex;
+    color:#fff;
+    
+}
+.victory-head{
+    margin-top:110px ;
+    margin-left: 10px;
+}
+.head{
+color: #FFF;
+font-family: Merriweather;
+font-size: 74px;
+font-style: normal;
+font-weight: 700;
+line-height: 68px; /* 137.5% */
+letter-spacing: 4.04px;
+}
