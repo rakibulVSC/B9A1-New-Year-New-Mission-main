@@ -124,7 +124,7 @@ letter-spacing: 4.04px;
 
 /* 7th step  */
 .section3{
-    height:4335px ;
+    height:910px ;
     width:950px;
     padding-top:30px;
     padding-left:45px;
@@ -144,3 +144,24 @@ letter-spacing: 4.04px;
     padding-top:10px ;
 }
 
+/* 8th-step  */
+.section-last{
+    background-color:rgba(255, 0, 0, 0.05) ;
+    border-radius: 8px;
+    text-align: center;
+    width:1020px;
+    height:316px ;
+    padding-top: 40px;
+}
+.last1{
+    padding-left:230px;
+    padding-top:10px;
+}
+
+/* footer section  */
+.last-foot{
+    display: flex;
+    justify-content: space-between;
+    background-color: #070211;
+    color:white;
+}
