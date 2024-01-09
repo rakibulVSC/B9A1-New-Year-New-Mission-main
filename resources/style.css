@@ -196,17 +196,23 @@ input[type="submit"]
 .footer-section{
     background-color: #070211;
     margin-top:40px;
+    height:200px ;
     width: 1000px;
+    padding:70px 10px 10px 10px ;
+
    
 }
 .last-foot{
-    display: flex;
+     display: flex;
     justify-content: space-between;
     color:white;
 }
 
 .flex{
     display: flex;
+}
+.first{
+    padding-right:10px ;
 }
 .float{
     display: flex;
