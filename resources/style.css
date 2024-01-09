@@ -121,3 +121,26 @@ letter-spacing: 4.04px;
 
 /* 6th step  */
 
+
+/* 7th step  */
+.section3{
+    height:4335px ;
+    width:950px;
+    padding-top:30px;
+    padding-left:45px;
+    background-color: #FFF;
+}
+.section-para{
+    padding-left:30px;
+}
+.section-shop{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.section-shop1{
+    display: flex;
+    justify-content: space-around;
+    padding-top:10px ;
+}
+
