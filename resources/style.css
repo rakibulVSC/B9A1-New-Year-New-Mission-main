@@ -42,6 +42,7 @@
     text-align: center;
     margin-top:50px ;
     background: #fff;
+    margin-left:50px;
 }
 /* 3rd step  */
 .victory{
@@ -206,6 +207,7 @@ input[type="submit"]
      display: flex;
     justify-content: space-between;
     color:white;
+    padding-bottom:10px;
 }
 
 .flex{
@@ -213,6 +215,7 @@ input[type="submit"]
 }
 .first{
     padding-right:10px ;
+    
 }
 .float{
     display: flex;
@@ -220,9 +223,12 @@ input[type="submit"]
 .what{
     margin: 0 auto 0 auto;
     text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 .foot{
     display: flex;
     color: #FFF;
     justify-content: space-between;
+    padding-top:10px;
 }
