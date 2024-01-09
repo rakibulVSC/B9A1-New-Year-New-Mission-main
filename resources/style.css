@@ -99,6 +99,7 @@ font-style: light;
    background-color:rgb(255,0);
    transition: 1s;
    box-shadow: 5px 5px 5px #312b3d;
+   color:#070211;
 
 }
 /* 5th step  */
@@ -192,7 +193,7 @@ input{
 input[type="text"]
 {
     height:50px;
-    width:180px ;
+    width:200px ;
     border: none;
     border-radius:25px 0 0 25px;
 }
